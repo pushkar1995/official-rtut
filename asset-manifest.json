@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/official-rtut/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/official-rtut/static/js/main.f27e6bf5.chunk.js",
+    "main.js.map": "/official-rtut/static/js/main.f27e6bf5.chunk.js.map",
+    "runtime-main.js": "/official-rtut/static/js/runtime-main.87572940.js",
+    "runtime-main.js.map": "/official-rtut/static/js/runtime-main.87572940.js.map",
+    "static/js/2.793a0d64.chunk.js": "/official-rtut/static/js/2.793a0d64.chunk.js",
+    "static/js/2.793a0d64.chunk.js.map": "/official-rtut/static/js/2.793a0d64.chunk.js.map",
+    "static/js/3.a2d1627b.chunk.js": "/official-rtut/static/js/3.a2d1627b.chunk.js",
+    "static/js/3.a2d1627b.chunk.js.map": "/official-rtut/static/js/3.a2d1627b.chunk.js.map",
+    "index.html": "/official-rtut/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/official-rtut/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.793a0d64.chunk.js.LICENSE.txt": "/official-rtut/static/js/2.793a0d64.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/official-rtut/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87572940.js",
+    "static/js/2.793a0d64.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f27e6bf5.chunk.js"
+  ]
+}
